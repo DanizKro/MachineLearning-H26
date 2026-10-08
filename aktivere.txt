@@ -1,0 +1,6 @@
+
+#Aktivere miljøet
+conda activate ml-h26
+
+#Deaktivere miljøet
+conda activate ml-h26
