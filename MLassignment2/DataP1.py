@@ -23,4 +23,6 @@ stockdata = pd.read_csv(FILE)
 
 # %%#-------------------------
 stockdata.head()
+
 # %%
+
